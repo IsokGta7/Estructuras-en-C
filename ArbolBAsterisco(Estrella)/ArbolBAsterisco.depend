@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1620529028 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\arbolbasterisco\vector.cpp
+	"Vector.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\arbolbasterisco\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1620529028 source:c:\users\dell\documents\unison__pandemico\4to semestre\estructuras\proyectos cd\arbolbasterisco\vector.cpp
+	"Vector.h"
+
+1616296964 c:\users\dell\documents\unison__pandemico\4to semestre\estructuras\proyectos cd\arbolbasterisco\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1685415313 source:c:\users\isaac\downloads\irene\vector.cpp
+	"Vector.h"
+
+1685415309 c:\users\isaac\downloads\irene\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
